@@ -1,0 +1,17 @@
+f16c7d3ae3dd5839df5d3fa66d71fe6e *DESCRIPTION
+7d14526611649203e2b91fc6f56235a9 *NAMESPACE
+dfaa3f107e92c2537b38a019d2ede782 *NEWS.md
+df9aadd0bffe0ab3f2f33cf4d4a24dfb *R/is_constant.R
+7e77eba4bd46555553424423dded8af7 *R/is_increasing.R
+86e30f6dab6e3b1166ef19e30e372394 *R/is_incremental.R
+44810d1612864cb67c40140f3169467c *R/is_monotonic.R
+a59919cfa24d07e8ba2d596af7adc67d *R/is_sorted.R
+bb782d1811ef0abb8d5944e51d20f48e *R/ordering.R
+763ed3fea851d4be8132e43f4f017a86 *R/zzz.R
+9a3aa4a0f9f607a3c24b72bf6a68557a *README.md
+a14431bea0b5331c8849fa5a2203c5e1 *man/ordering.Rd
+8a15064278d00df04d67fa5c1f6c8eb5 *man/tests.Rd
+1ebc4ab7dae29e4aeae1f9e4dea86147 *tests/testthat.R
+dd32ba97246194bcf0f9835caf20bcdb *tests/testthat/test-char.R
+c81b551ed517839214e6147e335b207d *tests/testthat/test-dates.R
+2761dd82b659d15954cde957abe3a94a *tests/testthat/test-int.R
